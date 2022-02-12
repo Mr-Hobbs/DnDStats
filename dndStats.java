@@ -169,9 +169,6 @@ public class dndStats {
            System.out.print("\n\n");
        }
     
-              
- //Barbarian, Bard, Cleric, Druid, Fighter, Monk, Paladin, Ranger, Rogue,
-// Sorcerer, Warlock, Wizard
         
        System.out.println("They are a " + gender[rand.nextInt(2)] + 
                " " + raceName[rand.nextInt(9)] + " " + 
@@ -185,31 +182,7 @@ public class dndStats {
        
        
        ////////////////////////////////////////////////////////////
-    // Dragonborn, Dwarf, Elf, Gnome, Half-Elf, Halfling, Half-Orc, Human, Tiefling
-       //datatype[] identifier; // <-- Syntax to set up an array
 
-       
-       
-    /*
-    //random race method
-       
-       
-    public String raceChooser() {
-       
-       return;
-    }    
-    
-    //random class method
-    public String classChooser() {
-       
-       return ;
-    }
-    
-    //random sub-class method
-    public String subClassChooser() {
-       
-       return;
-    }    */
    
 
 
