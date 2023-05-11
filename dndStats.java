@@ -34,7 +34,7 @@ public class dndStats {
        raceName[8] = ("Tiefling");
               
     // Determines gender
-       String[] gender = {"male", "female"}; // alternate wat to initialize array elements
+       String[] gender = {"male", "female"}; // alternate way to initialize array elements
     
        //gender[0] = ("male");
        //gender[1] = ("female");       
